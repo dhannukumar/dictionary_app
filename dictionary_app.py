@@ -20,27 +20,27 @@ words = [
         'word': 'counter',
         'note': 'counter ka matlab hota hain count karne wala',
         'username': 'dhannu',
-        'difficult': "5",
+        'difficult': "3",
         'id': 7
     },
 
     {
         'word': 'apple',
-        'note': 'counter ka matlab hota hain count karne wala',
+        'note': 'apple ka matlab hota hain seb jisse ham khate hain',
         'username': 'dhannu',
         'difficult': "2",
         'id': 3
     },
     {
         'word': 'something',
-        'note': 'something something',
+        'note': 'something means, kuch',
         'username': 'dhannu',
         'difficult': "6",
         'id': 4
     },
         {
-        'word': 'counter',
-        'note': 'counter ka matlab hota hain count karne wala',
+        'word': 'fast',
+        'note': 'fast means, jo tej hota hain',
         'username': 'dhannu',
         'difficult': "5",
         'id': 1
